@@ -100,12 +100,8 @@ I'm an Informatics student at **UPN "Veteran" Jawa Timur** passionate about craf
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DickyFerdy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Dicky's GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=DickyFerdy&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Dicky's Streak Stats" height="165" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickyFerdy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=DickyFerdy&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Dicky's Streak & Contributions" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickyFerdy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Most Used Languages" height="165" />
 </div>
 
 ---
